@@ -9,5 +9,6 @@ public class UDPServer
 		
 		new QuoteServerThread().start();
 		System.out.println("Server is started.");
+		System.out.println("Done!!");
 	}
 }
